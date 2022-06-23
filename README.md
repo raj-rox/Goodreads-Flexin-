@@ -3,7 +3,7 @@ For Pulling and customising from my Goodreads Feed
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Atomic Habits](https://www.goodreads.com/review/show/4679549292?utm_medium=api&utm_source=rss) by James Clear (⭐️4.38)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/4679549292?utm_medium=api&utm_source=rss) by James Clear (⭐️4.38)
 - [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/4679546888?utm_medium=api&utm_source=rss) by Ichiro Kishimi (⭐️4.02)
 - [Radical Acceptance: Embracing Your Life With the Heart of a Buddha](https://www.goodreads.com/review/show/4449731345?utm_medium=api&utm_source=rss) by Tara Brach (⭐️4.14)
 - [Immune: a Journey into the Mysterious System that Keeps You Alive](https://www.goodreads.com/review/show/4449739832?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.62)
