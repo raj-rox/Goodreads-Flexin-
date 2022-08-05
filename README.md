@@ -11,5 +11,5 @@ For Pulling and customising from my Goodreads Feed
 - [The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/review/show/4658536305?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️3.81)
 - [Numbers Don't Lie: 71 Things You Need to Know About the World](https://www.goodreads.com/review/show/4658534588?utm_medium=api&utm_source=rss) by Vaclav Smil (⭐️3.82)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/4658509300?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.2)
-- [The Art of Learning: A Journey in the Pursuit of Excellence](https://www.goodreads.com/review/show/4449733240?utm_medium=api&utm_source=rss) by Josh Waitzkin (⭐️4.02)
+- [The Art of Learning: A Journey in the Pursuit of Excellence](https://www.goodreads.com/review/show/4449733240?utm_medium=api&utm_source=rss) by Josh Waitzkin (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
